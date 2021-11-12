@@ -15,9 +15,9 @@ The team consists of - Purvi Harniya(1814023), Neelay Jagani(1814024) and Esha G
 
 ---
 
-The main notebook file is 'ML-IA2.ipynb' -
-The dataset is available in the dataset folder -
-The notebook file's pdf is available at -  
-The ppt is available at -
+The main notebook file is 'ML-IA2.ipynb' -   <br>
+The dataset is available in the dataset folder -   <br>
+The notebook file's pdf is available at -  <br>
+The ppt is available at -   <br>
 
 ---
