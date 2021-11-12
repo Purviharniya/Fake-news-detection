@@ -100,11 +100,12 @@ The dataset was downloaded from https://www.uvic.ca/ecs/ece/isot/datasets/index.
 
 The team consists of - Purvi Harniya(1814023), Neelay Jagani(1814024) and Esha Gupta(1814025)
 
-The main notebook file is 'Group6_Code_ML_IA2_Implementation.ipynb' - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_Code_ML_IA2_Implementation.ipynb  <br>
+The main notebook file is 'Group6_Code_ML_IA2_Implementation.ipynb' - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_Code_ML_IA2_Implementation.ipynb <br>
 The dataset is available in the dataset folder -  https://github.com/Purviharniya/Fake-news-detection/tree/master/dataset <br>
 The notebook file's pdf is available at - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_CodePDF_ML_IA2.pdf <br>
 The ppt is available at - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_PPT_ML_IA2.pptx  <br>
 The summary document is available at - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_Document_FakeNewsDetection_ML_IA2_EXP8.docx <br>
 The screen cast is available at - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_Screencast_ML_IA2.mp4 <br>
 The research paper for IA1 - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_Reasearch%20Paper_ML_IA.pdf <br>
+
 ---
