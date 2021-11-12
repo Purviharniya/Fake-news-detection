@@ -1,4 +1,4 @@
-#Fake News Detection
+<h2> Fake News Detection - ML IA 2 </h2>
 
 ---
 
