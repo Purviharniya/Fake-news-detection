@@ -18,7 +18,7 @@ The results are as follows: <br>
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <th>1</th>
       <td>Logstic Regression</td>
       <td>0.987973</td>
       <td>0.986926</td>
@@ -26,7 +26,7 @@ The results are as follows: <br>
       <td>0.987848</td>
     </tr>
     <tr>
-      <th>1</th>
+      <th>2</th>
       <td>ADA</td>
       <td>0.988241</td>
       <td>0.987661</td>
@@ -34,7 +34,7 @@ The results are as follows: <br>
       <td>0.987661</td>
     </tr>
     <tr>
-      <th>2</th>
+      <th>3</th>
       <td>PAC</td>
       <td>0.995724</td>
       <td>0.994958</td>
@@ -42,7 +42,7 @@ The results are as follows: <br>
       <td>0.996074</td>
     </tr>
     <tr>
-      <th>3</th>
+      <th>4</th>
       <td>XGB</td>
       <td>0.990468</td>
       <td>0.994342</td>
@@ -50,7 +50,7 @@ The results are as follows: <br>
       <td>0.985605</td>
     </tr>
     <tr>
-      <th>4</th>
+      <th>5</th>
       <td>RF</td>
       <td>0.984677</td>
       <td>0.986835</td>
@@ -58,7 +58,7 @@ The results are as follows: <br>
       <td>0.980931</td>
     </tr>
     <tr>
-      <th>5</th>
+      <th>6</th>
       <td>Naive Bayes</td>
       <td>0.952339</td>
       <td>0.951087</td>
@@ -66,7 +66,7 @@ The results are as follows: <br>
       <td>0.948775</td>
     </tr>
     <tr>
-      <th>6</th>
+      <th>7</th>
       <td>SVM</td>
       <td>0.994833</td>
       <td>0.993287</td>
@@ -74,7 +74,7 @@ The results are as follows: <br>
       <td>0.995887</td>
     </tr>
     <tr>
-      <th>7</th>
+      <th>8</th>
       <td>DT</td>
       <td>0.985835</td>
       <td>0.986684</td>
@@ -82,7 +82,7 @@ The results are as follows: <br>
       <td>0.983548</td>
     </tr>
     <tr>
-      <th>8</th>
+      <th>9</th>
       <td>RNN</td>
       <td>0.992428</td>
       <td>0.994877</td>
@@ -100,11 +100,10 @@ The dataset was downloaded from https://www.uvic.ca/ecs/ece/isot/datasets/index.
 
 The team consists of - Purvi Harniya(1814023), Neelay Jagani(1814024) and Esha Gupta(1814025)
 
----
-
 The main notebook file is 'ML-IA2.ipynb' - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_Code_ML_IA2_Implementation.ipynb  <br>
 The dataset is available in the dataset folder -  https://github.com/Purviharniya/Fake-news-detection/tree/master/dataset <br>
 The notebook file's pdf is available at - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_CodePDF_ML_IA2.pdf <br>
 The ppt is available at - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_PPT_ML_IA2.pptx  <br>
 The summary document is available at - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_Document_FakeNewsDetection_ML_IA2_EXP8.docx <br>
+
 ---
