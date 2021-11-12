@@ -106,5 +106,5 @@ The notebook file's pdf is available at - https://github.com/Purviharniya/Fake-n
 The ppt is available at - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_PPT_ML_IA2.pptx  <br>
 The summary document is available at - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_Document_FakeNewsDetection_ML_IA2_EXP8.docx <br>
 The screen cast is available at - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_Screencast_ML_IA2.mp4 <br>
-The research paper for IA1 - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_Reasearch%20Paper_ML_IA.pdf
+The research paper for IA1 - https://github.com/Purviharniya/Fake-news-detection/blob/master/Group6_Reasearch%20Paper_ML_IA.pdf <br>
 ---
