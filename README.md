@@ -1,8 +1,9 @@
-<h2> Fake News Detection - ML IA 2 </h2>
+<h1> Fake News Detection - ML IA 2 </h1>
 
 ---
 
-A comparison of various classification algorithms to determine the best for out dataset.
+A comparison of various classification algorithms to determine the best for our dataset.
+The results are as follows: 
 
 ---
 
