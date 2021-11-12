@@ -92,7 +92,7 @@ The results are as follows: <br>
   </tbody>
 </table>
 <br>
----
+
 
 The dataset was downloaded from https://www.uvic.ca/ecs/ece/isot/datasets/index.php
 
